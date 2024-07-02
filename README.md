@@ -4,7 +4,7 @@
 
 Project Description:</h2>
 
-<h3>In this project, we will harness the power of Jupyter Notebook to conduct comprehensive data analysis. Jupyter Notebook is an open-source web application that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. It is widely used in data science and research for its interactive computing capabilities.
+<h4>In this project, we will harness the power of Jupyter Notebook to conduct comprehensive data analysis. Jupyter Notebook is an open-source web application that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. It is widely used in data science and research for its interactive computing capabilities.
 
 Objectives:
 
@@ -59,4 +59,4 @@ Timeline:
 3. Week 5-6: Data Visualization and Statistical Analysis
 4. Week 7-8: Machine Learning Model Development and Evaluation
 5. Week 9: Documentation and Report Preparation
-6. Week 10: Final Review and Presentation</h3>
+6. Week 10: Final Review and Presentation</h4>
