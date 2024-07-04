@@ -1,10 +1,10 @@
 # Data Analysis Projects
 
-<h2>Project Title: Data Analysis
+<h2>Project Title: Data Analysis</h2>
 
-Project Description:</h2>
 
-<h4>In this project, we will harness the power of Jupyter Notebook to conduct comprehensive data analysis. Jupyter Notebook is an open-source web application that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. It is widely used in data science and research for its interactive computing capabilities.
+<h4>Project Description:
+In this project, we will harness the power of Jupyter Notebook to conduct comprehensive data analysis. Jupyter Notebook is an open-source web application that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. It is widely used in data science and research for its interactive computing capabilities.
 
 
 Objectives:
