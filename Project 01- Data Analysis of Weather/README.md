@@ -1,5 +1,5 @@
 ## Weather Data Analysis 
-<h1>Data Analysis of Weather Project</h1>
+<h2>Data Analysis of Weather Project</h2>
 
 <p>This project focuses on analyzing weather data using data science and analytical techniques. It provides insights into various weather patterns, trends, and anomalies using real-world datasets.</p>
 
